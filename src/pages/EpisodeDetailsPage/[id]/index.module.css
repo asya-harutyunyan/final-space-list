@@ -1,0 +1,33 @@
+.name {
+  text-align: center;
+  color: rgb(15, 15, 82);
+  font-size: 35px;
+  font-weight: 600;
+}
+.container {
+  padding: 25px;
+  height: 100vh;
+}
+.text {
+  color: rgb(202, 41, 41);
+  font-size: 30px;
+  font-weight: 600;
+}
+span {
+  color: rgb(15, 15, 82);
+  font-size: 25px;
+  font-weight: 600;
+}
+.flex {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+}
+.link {
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  gap: 5px;
+  color: red;
+}

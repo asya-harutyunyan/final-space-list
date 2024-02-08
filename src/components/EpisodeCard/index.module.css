@@ -1,0 +1,22 @@
+.episode {
+  list-style: none;
+  text-align: center;
+  border: 2px solid rgb(54, 23, 112);
+  background-color: white;
+  padding: 25px 0;
+}
+.text {
+  font-size: 30px;
+  color: rgb(54, 23, 112);
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
+.link {
+  color: red;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  gap: 5px;
+}
